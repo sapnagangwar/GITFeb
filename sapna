@@ -24,5 +24,6 @@ public class Demo {
         
         // Displaying the multiplication result
         System.out.println("Output: "+product);
+	System.out.println("Output: "+prt);
     }
 }

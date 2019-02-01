@@ -16,7 +16,7 @@ public class Sapna {
         System.out.print("Enter second number: ");
         int number2 = scan.nextInt();
 
-        // Closing Scanner after the use
+        // Close the Scanner after the use
         scan.close();
         
         // Calculating product of two numbers

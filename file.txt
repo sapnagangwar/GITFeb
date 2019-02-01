@@ -1,4 +1,4 @@
-i love Anand and Sapna
+i love Anand or Sapna
 
-if(mc){do not merge}
+if(moniconsole){do not merge}
 else{merge}

@@ -1,7 +1,1 @@
 i love Anand and Amartya
-if(mergeConflict){do not merge}
-else{merge}
-i love Anand and Sapna
-
-if(mc){do not merge}
-else{merge}

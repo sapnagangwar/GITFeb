@@ -1,1 +1,4 @@
 i love Anand and Sapna
+
+if(mc){do not merge}
+else{merge}

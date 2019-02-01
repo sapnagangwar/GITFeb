@@ -19,10 +19,10 @@ public class Sapna {
         // Close the Scanner after the use
         scan.close();
         
-        // Calculating product of two numbers
+        // Calculate the  product of two numbers
         int product = number1*number2;
         
-        // Displaying the multiplication result
+        // Display the multiplication result
         System.out.println("Output: "+product);
     }
 }

@@ -1,1 +1,4 @@
 i love Anand and Amartya
+
+if(mergeConflict){do not merge}
+else{merge}
